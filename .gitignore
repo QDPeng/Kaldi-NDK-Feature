@@ -1,0 +1,5 @@
+.vscode/
+.idea/
+build
+thirdparty/OpenBLAS
+thirdparty/android_libs
